@@ -1,0 +1,5 @@
+{
+    "sketch": "configHC-05/configHC-05.ino",
+    "board": "arduino:avr:uno",
+    "port": "/dev/tty.usbmodem14201"
+}
